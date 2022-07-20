@@ -1,0 +1,21 @@
+{
+  "name": "imessagebackend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start ": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "prayushi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.4",
+    "pusher": "^5.1.1-beta"
+  },
+  "description": ""
+}
